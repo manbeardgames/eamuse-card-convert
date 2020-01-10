@@ -1,0 +1,7 @@
+# ignore hidden .vs directory created by visual studio
+.vs/
+
+# ignore bin and obj directories completely
+[Bb]in/
+[Oo]bj/
+
